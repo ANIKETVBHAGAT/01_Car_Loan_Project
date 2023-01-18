@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.wefinanceltd.carloan.project</groupId>
 	<artifactId>01_final_Car_Loan_Application</artifactId>
-	<version>SNAPSHOT-1.0.0</version>
+	<version>RELEASE-2.0</version>
 	<packaging>war</packaging>
 	<name>01_final_Car_Loan_Application</name>
 	<description>Car Loan Project</description>
